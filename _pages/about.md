@@ -84,7 +84,7 @@ Shuaiting Li, Chengxuan Wang, **Juncan Deng**, Zeyu Wang, Zewen Ye, Zongsheng Wa
 
 # 📖 Educations
 - *2024.09 - now*, PhD student, College of information science and electronic engineering, Zhejiang University
-- *2022.09 - 2024.06*, Master student, College of information science and electronic engineering, Zhejiang University
+- *2022.09 - 2024.06*, Master, College of information science and electronic engineering, Zhejiang University
 
 # 💻 Internships
 - *2024.09 - 2025.06*, Research intern at VIVO Mobile Communication, China.
