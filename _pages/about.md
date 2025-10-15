@@ -17,38 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I'm a second year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
+I'm a second year Ph.D student from the College of information science \& electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
 
-I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently, I'm also a research intern at VIVO Mobile Communication. 
+I'm advised by Prof. Kejie Huang. Currently, I'm also a research intern at VIVO Mobile Communication. 
 
 # 🔥 News
-- *2025.06*: 🎉 Two papers are accepted by ICCV 2025.
+- *2025.06*: 🎉 ViM-VQ and SSVQ are accepted by ICCV 2025.
+- *2024.12*: 🎉 VQ4ViT is accepted by AAAI 2025.
+- *2024.11*: 🎉 MVQ is accepted by ASPLOS 2025.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/ASPLOS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MVQ: Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization](https://dl.acm.org/doi/abs/10.1145/3669940.3707268)
-
-**Shuaiting Li**, Chengxuan Wang, Juncan Deng, Zeyu Wang, Zewen Ye, Zongsheng Wang, Haibin Shen, Kejie Huang
- 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A highly efficient HW-SW co-designed system for Vector Quantization. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SSVQ.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668)
-
-**Shuaiting Li**, Juncan Deng, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
- 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A new Vector Quantization paradigm, simple but effective.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VIMVQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,6 +40,20 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SSVQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668)
+
+**Shuaiting Li**, Juncan Deng, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
+ 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A new Vector Quantization paradigm, simple but effective.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/VQ4DIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,12 +66,23 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
 </div>
 </div>
 
-- ``TCAS-II`` [Ews: An energy-efficient cnn accelerator with enhanced weight stationary dataflow](https://ieeexplore.ieee.org/abstract/document/10415881), Chengxuan Wang, Zongsheng Wang, **Shuaiting Li**, Yuanming Zhang, Haibin Shen, Kejie Huang.
-- ``GRSL`` [Cross-modal adaptation for object detection in thermal infrared remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/10835167), Zeyu Wang, **Shuaiting Li**, Kejie Huang.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/ASPLOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MVQ: Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization](https://dl.acm.org/doi/abs/10.1145/3669940.3707268)
+
+**Shuaiting Li**, Chengxuan Wang, Juncan Deng, Zeyu Wang, Zewen Ye, Zongsheng Wang, Haibin Shen, Kejie Huang
+ 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A highly efficient HW-SW co-designed system for Vector Quantization. 
+</div>
+</div>
+
 
 # 📖 Educations
-- *2023.09 - now*, PhD student, College of information science & electronic engineering, Zhejiang University
-- *2019.09 - 2023.06*, Undergrad student, College of information science & electronic engineering, Zhejiang University
+- *2024.09 - now*, PhD student, College of information science \& electronic engineering, Zhejiang University
+- *2022.09 - 2024.06*, Master student, College of information science \& electronic engineering, Zhejiang University
 
 # 💻 Internships
-- *2024.03 - now*, Research intern at VIVO Mobile Communication, China.
+- *2025.03 - now*, Research intern at VIVO Mobile Communication, China.
