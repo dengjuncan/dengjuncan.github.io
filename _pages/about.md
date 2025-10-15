@@ -38,7 +38,7 @@ I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile 
 **Juncan Deng**, Shuaiting Li, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first sub-2bit Vector Quantization solution for Visual Mambas. 
+- A vector quantization method that combines convex combination updates and incremental quantization.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Shuaiting Li, **Juncan Deng**, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, 
 **Juncan Deng**,Shuaiting Li, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first 2bit Vector Quantization solution for Diffusion in Transformers. 
+- A vector quantization method based on assignment learning. 
 </div>
 </div>
 
