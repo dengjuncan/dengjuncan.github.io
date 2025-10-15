@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I'm a second year Ph.D student from the College of information science \& electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
+I'm a second year Ph.D student from the College of information science and electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
 
 I'm advised by Prof. Kejie Huang. Currently, I'm also a research intern at VIVO Mobile Communication. 
 
@@ -81,8 +81,8 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
 
 
 # 📖 Educations
-- *2024.09 - now*, PhD student, College of information science \& electronic engineering, Zhejiang University
-- *2022.09 - 2024.06*, Master student, College of information science \& electronic engineering, Zhejiang University
+- *2024.09 - now*, PhD student, College of information science and electronic engineering, Zhejiang University
+- *2022.09 - 2024.06*, Master student, College of information science and electronic engineering, Zhejiang University
 
 # 💻 Internships
 - *2025.03 - now*, Research intern at VIVO Mobile Communication, China.
