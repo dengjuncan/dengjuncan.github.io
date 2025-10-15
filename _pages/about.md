@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I'm a second year Ph.D student from the College of information science and electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
+I'm a second year Ph.D student from the College of information science and electronic engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. 
 
-I'm advised by Prof. Kejie Huang. Currently, I'm also a research intern at VIVO Mobile Communication. 
+I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile Communication. I am seeking internship and academic collaboration opportunities.
+
+
 
 # 🔥 News
 - *2025.06*: 🎉 ViM-VQ and SSVQ are accepted by ICCV 2025.
@@ -85,4 +87,4 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
 - *2022.09 - 2024.06*, Master student, College of information science and electronic engineering, Zhejiang University
 
 # 💻 Internships
-- *2025.03 - now*, Research intern at VIVO Mobile Communication, China.
+- *2024.09 - 2025.06*, Research intern at VIVO Mobile Communication, China.
