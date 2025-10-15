@@ -19,7 +19,7 @@ redirect_from:
 # About Me
 I'm a second year Ph.D student from the College of information science and electronic engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. 
 
-I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile Communication. I am seeking internship and academic collaboration opportunities.
+I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile Communication. Currently, I am seeking internship and academic collaboration opportunities.
 
 
 
