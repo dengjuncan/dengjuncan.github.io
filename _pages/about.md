@@ -60,6 +60,7 @@ Shuaiting Li, **Juncan Deng**, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, 
 <div class='paper-box-text' markdown="1">
 
 [VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/33782)
+[Code](https://github.com/dengjuncan/VQ4DiT)
 
 **Juncan Deng**,Shuaiting Li, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
  
