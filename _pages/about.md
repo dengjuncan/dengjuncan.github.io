@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I'm a second year Ph.D student from the College of information science and electronic engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. 
+I'm a fourth year Ph.D student from the College of information science and electronic engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. 
 
 I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile Communication. Currently, I am seeking internship and academic collaboration opportunities.
 
@@ -47,6 +47,7 @@ I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile 
 <div class='paper-box-text' markdown="1">
 
 [SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668)
+[Code](https://github.com/list0830/SSVQ)
 
 Shuaiting Li, **Juncan Deng**, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
  
@@ -84,8 +85,7 @@ Shuaiting Li, Chengxuan Wang, **Juncan Deng**, Zeyu Wang, Zewen Ye, Zongsheng Wa
 
 
 # 📖 Educations
-- *2024.09 - now*, PhD student, College of information science and electronic engineering, Zhejiang University
-- *2022.09 - 2024.06*, Master, College of information science and electronic engineering, Zhejiang University
+- *2022.09 - now*, PhD student, College of information science and electronic engineering, Zhejiang University
 
 # 💻 Internships
 - *2024.09 - 2025.06*, Research intern at VIVO Mobile Communication, China.
