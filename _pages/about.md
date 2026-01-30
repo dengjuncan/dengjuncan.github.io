@@ -24,6 +24,7 @@ I'm advised by Prof. Kejie Huang. I used to be a research intern at VIVO Mobile 
 
 
 # 🔥 News
+- *2026.01*: 🎉 One paper is accepted by ICLR 2026.
 - *2025.06*: 🎉 ViM-VQ and SSVQ are accepted by ICCV 2025.
 - *2024.12*: 🎉 VQ4ViT is accepted by AAAI 2025.
 - *2024.11*: 🎉 MVQ is accepted by ASPLOS 2025.
